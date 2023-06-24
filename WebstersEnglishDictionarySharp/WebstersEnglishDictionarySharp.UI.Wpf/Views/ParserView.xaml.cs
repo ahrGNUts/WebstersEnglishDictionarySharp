@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace UI.Wpf.Views
+namespace WebstersEnglishDictionarySharp.UI.Wpf.Views
 {
     /// <summary>
     /// Interaction logic for ParserView.xaml

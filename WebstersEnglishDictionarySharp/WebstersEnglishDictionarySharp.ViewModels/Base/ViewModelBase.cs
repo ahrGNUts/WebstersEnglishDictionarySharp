@@ -1,6 +1,6 @@
 ﻿using WebstersEnglishDictionarySharp.Core;
 
-namespace ViewModels.Base
+namespace WebstersEnglishDictionarySharp.ViewModels.Base
 {
     public abstract class ViewModelBase : ObservableObject
     {

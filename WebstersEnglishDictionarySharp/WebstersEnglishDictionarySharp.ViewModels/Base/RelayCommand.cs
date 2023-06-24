@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace ViewModels.Base
+namespace WebstersEnglishDictionarySharp.ViewModels.Base
 {
     public class RelayCommand : ICommand
     {

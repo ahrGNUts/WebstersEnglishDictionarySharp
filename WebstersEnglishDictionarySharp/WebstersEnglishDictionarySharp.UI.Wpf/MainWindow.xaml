@@ -3,8 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:UI.Wpf"
-        xmlns:Views="clr-namespace:UI.Wpf.Views" x:Class="UI.Wpf.MainWindow"
+        xmlns:local="clr-namespace:WebstersEnglishDictionarySharp.UI.Wpf"
+        xmlns:Views="clr-namespace:WebstersEnglishDictionarySharp.UI.Wpf.Views" x:Class="UI.Wpf.MainWindow"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
